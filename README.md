@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [:heart: Sponsor](https://github.com/sponsors/nobuhiko)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobuhiko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobuhiko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
