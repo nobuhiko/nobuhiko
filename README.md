@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[:heart: Sponsor](https://github.com/sponsors/nobuhiko)
+[![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/nobuhiko)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobuhiko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
